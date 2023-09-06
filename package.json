@@ -1,0 +1,15 @@
+{
+  "name": "days_to_ny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "days_to_ny"
+  },
+  "author": "ArkadiyMoskvitin",
+  "license": "ISC"
+}
